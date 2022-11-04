@@ -15,6 +15,8 @@ license: creativeml-openrail-m
 	</ul>
 </p>
 
+[CKPT download link](https://huggingface.co/Guizmus/Tardisfusion/resolve/main/Tardisfusion-v2.ckpt)
+
 ## 🧨 Diffusers
 
 This model can be used just like any other Stable Diffusion model. For more information,
