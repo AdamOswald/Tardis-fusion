@@ -1,10 +1,13 @@
 ---
+language:
+- en
 license: creativeml-openrail-m
 thumbnail: "https://huggingface.co/Guizmus/Tardisfusion/resolve/main/showcase.jpg"
 tags:
 - stable-diffusion
 - text-to-image
 - image-to-image
+
 ---
 
 # TARDISfusion
