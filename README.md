@@ -7,6 +7,7 @@ tags:
 - stable-diffusion
 - text-to-image
 - image-to-image
+library_name: "https://github.com/ShivamShrirao/diffusers"
 
 ---
 
