@@ -8,7 +8,7 @@ tags:
 - text-to-image
 - image-to-image
 library_name: "https://github.com/ShivamShrirao/diffusers"
-
+inference: false
 ---
 
 # TARDISfusion
