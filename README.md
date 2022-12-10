@@ -7,9 +7,7 @@ tags:
 - stable-diffusion
 - text-to-image
 - image-to-image
-- DrWho
-library_name: "https://github.com/ShivamShrirao/diffusers"
-inference: false
+inference: true
 ---
 
 # TARDISfusion
