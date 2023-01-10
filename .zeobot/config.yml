@@ -43,7 +43,7 @@ autodelete_merged_branches:
   # if enabled, BIP will work for this repository
   enabled: true
   # branches with this name won't be deleted
-  branches_to_exclude:
+  branches_to_exclude: main
 
 # Branch in Progress (BIP)
 # pull requests marked with the '@zeobot-bip' label won't be merged
